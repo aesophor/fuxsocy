@@ -8,6 +8,7 @@ The code is provided "as is" without warranty of any kind, either expressed or i
 
 ## What's This?
 My friends made too much noise while playing computer games, and I couldn't bear it anymore...
+
 Time to shut them down. 
 
 Whenever the game locker, `Chrome Scheduler`, gets killed, `System32` will resurrect it.
